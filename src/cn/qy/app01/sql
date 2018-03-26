@@ -1,0 +1,5 @@
+create table emps01(
+      id varchar2(40) primary key,
+      name varchar2(10) not null,
+      salary number(6,2)
+  );
