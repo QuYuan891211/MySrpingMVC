@@ -16,7 +16,7 @@
       
       
     
-    <import resource="cn/qy/app01/spring-app01.xml"/>
+    <import resource="cn/qy/app02/spring-app02.xml"/>
 
       
     
